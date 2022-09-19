@@ -1,0 +1,248 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kavivanar&display=swap");
+
+.body {
+  display: block;
+  width: 1920px;
+  height: 1594px;
+}
+
+.header-block {
+  display: block;
+  width: 810px;
+  height: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 190px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 46px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  color: #1e212c;
+}
+
+.layot-picture {
+  margin-top: 92px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 4px;
+  color: #424551;
+}
+
+.textbold1 {
+  margin-top: 60px;
+  display: block;
+  width: 810px;
+  height: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 150%;
+  color: #424551;
+}
+
+.text1 {
+  margin-top: 24px;
+  display: block;
+  width: 810px;
+  height: 182px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #424551;
+}
+
+.boldtext2 {
+  margin-top: 48px;
+  display: block;
+  width: 752px;
+  height: 120px;
+  padding-left: 58px;
+  padding-right: 111px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 150%;
+  color: #1e212c;
+}
+
+.text2 {
+  margin-top: 48px;
+  display: block;
+  width: 810px;
+  height: 26px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #424551;
+}
+
+.list {
+  display: flex;
+  margin-top: 24px;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+  width: 600px;
+  height: 116px;
+  margin-left: 470px;
+  margin-right: auto;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #424551;
+}
+
+.text3 {
+  margin-top: 24px;
+  display: block;
+  width: 921px;
+  height: 104px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #424551;
+  margin-bottom: 50px;
+}
+
+.button {
+  display: block;
+  background-color: #ff4500;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.button2 {
+  margin-top: 3cm;
+  display: block;
+  background-color: #ff4500;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.picture {
+  margin-top: 2cm;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 30px 80px;
+  border-top: 5px solid red;
+  border-right: 5px dotted blue;
+  border-bottom: 8px double white;
+  border-left: 7px dashed yellow;
+  margin-bottom: 2cm;
+}
+
+.body-layot {
+  background-color: rgb(206, 204, 204);
+}
+
+.block3 {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: 150px;
+  border: 5px solid #f10f0f;
+  overflow: scroll;
+  margin-bottom: 2cm;
+  box-shadow: 15px 10px 10px #000;
+  background-color: #02f69d;
+  border-radius: 10px;
+}
+
+.block4,
+.block5,
+.block6 {
+  display: inline-block;
+}
+
+.block4 {
+  width: 400px;
+  height: 400px;
+  font-size: 20px;
+  font-weight: 400;
+  font-size: 20px;
+  margin-left: 2cm;
+  border: 10px solid #6213da;
+  padding: 80px;
+  border-radius: 50%;
+  background-color: #80f602;
+  color: #ff0303;
+}
+
+.block5 {
+  width: 300px;
+  height: 300px;
+  font-family: "lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  margin-left: 2cm;
+  border: 5px dashed #02f69d;
+  background-color: #f602a1;
+  padding: 5px 15px;
+}
+
+.block6 {
+  width: 250px;
+  height: 300px;
+  font-family: "kavivanar";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  margin-left: 2cm;
+  overflow: visible;
+  border: 5px double #0f13f1;
+  padding: 2%;
+  box-shadow: inset 15px 10px 40px rgb(78, 6, 231);
+}
+
+.picture2 {
+  display: block;
+  margin-left: 600px;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 50px;
+  border-radius: 50%;
+  opacity: 0.5;
+  border: 5px double rgb(53, 255, 3);
+}
